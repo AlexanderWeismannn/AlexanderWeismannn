@@ -1,4 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderweismannn&label=Profile%20views&color=0e75b6&style=flat" alt="alexanderweismannn" /> </p>
+<h1 align="center"> ML and Data Science Enthusiast </h1>
+
+<h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/alexander-weismann-740138229/
+
 <p align="left">
 </p>
 
