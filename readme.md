@@ -40,4 +40,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderWeismannn&layout=donut-vertical&size_weight=0.1&count_weight=1) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderWeismannn&layout=donut-vertical&size_weight=0.1&count_weight=1&bg_color=00111111&hideborder=true) 
