@@ -1,7 +1,11 @@
 <h1 align="center"> ML and Data Science Enthusiast </h1>
 
 <h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/alexander-weismann-740138229/
+<a href=https://www.linkedin.com/in/alexander-weismann-740138229/ target="blank"><img align="center" src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a>
+</p>
+
+
+
 
 <p align="left">
 </p>
