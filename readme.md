@@ -30,7 +30,7 @@
   - **Schema & data migrations** — a Rails-style migration framework with resumable batching for multi-million-row
   backfills
 
-  ### Tech I reach for
+  ### The Stack
 
   **Backend & infra**
 
