@@ -1,138 +1,78 @@
   <h1 align="center">Alexander Weismann</h1>
-  <h3 align="center">Full-Stack Developer | ML & Data Science Enthusiast</h3>
+  <h3 align="center">Full-Stack Engineer · Distributed Systems · Applied ML</h3>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/alexander-weismann-740138229/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    <a href="https://www.linkedin.com/in/alexander-weismann-740138229/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
   alt="LinkedIn"/>
+    </a>
+    <a href="mailto:alexander@postilize.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
   ---
 
-  <h3 align="left">Languages</h3>
-  <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="JavaScript" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  alt="TypeScript" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
-  width="40" height="40"/></a>&nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img
-  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust"
-  width="40" height="40"/></a>&nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"
-  width="40" height="40"/></a>&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"
-  width="40" height="40"/></a>&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"
-  width="40" height="40"/></a>
-  </p>
+  ### About
 
-  <h3 align="left">Backend & Infrastructure</h3>
-  <p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-  alt="Node.js" width="40" height="40"/></a>&nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-  alt="Express" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-  alt="MongoDB" width="40" height="40"/></a>&nbsp;
-    <a href="https://redis.io" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis"
-  width="40" height="40"/></a>&nbsp;
-    <a href="https://www.heroku.com" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku"
-   width="40" height="40"/></a>&nbsp;
-    <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img
-  src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img
-  src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  </p>
+  I build production systems where data, ML, and product UX meet. Most of my recent work lives at the intersection of
+  large-scale data pipelines, LLM-driven features, and the dashboards that make all of it usable.
 
-  <h3 align="left">Frontend</h3>
-  <p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"
-  width="40" height="40"/></a>&nbsp;
-    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
-  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI"
-  width="40" height="40"/></a>
-  </p>
+  ### What I'm working on
 
-  <h3 align="left">Data Science & ML</h3>
-  <p align="left">
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img
-  src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img
-  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img
-  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/de
-  vicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img
-  src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  </p>
+  - **Relationship intelligence at scale** — distributed scoring pipelines on BullMQ + Redis, processing communication
+  history across millions of records
+  - **LLM-powered product features** — prompt pipelines, tool-calling agents, and the supporting evaluation harnesses
+  - **CRM integrations** — connectors for Dynamics, Salesforce, HubSpot, and InterAction, with a shared sync
+  architecture
+  - **Operational dashboards** — React + Redux Toolkit + Tailwind front-ends for tenant monitoring, ERM scoring, and
+  admin tooling
+  - **Schema & data migrations** — a Rails-style migration framework with resumable batching for multi-million-row
+  backfills
 
-  <h3 align="left">AI & APIs</h3>
-  <p align="left">
-    <a href="https://openai.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" alt="OpenAI" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/anthropic.svg" alt="Anthropic Claude"
-  width="40" height="40"/></a>&nbsp;
-    <a href="https://learn.microsoft.com/en-us/graph/overview" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Microsoft
-  Graph API" width="40" height="40"/></a>
-  </p>
+  ### Tech I reach for
 
-  <h3 align="left">Tools & Software</h3>
-  <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
-  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img
-  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img
-  src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"><img
-  src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>&nbsp;
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ken
-  angundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine"
-  width="40" height="40"/></a>&nbsp;
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img
-  src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40"
-  height="40"/></a>&nbsp;
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop"
-  width="40" height="40"/></a>
+  **Backend & infra**
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=wh
+  ite)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+  **Frontend**
+
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  **ML, AI & tooling**
+
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
+  )
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![Microsoft Graph](https://img.shields.io/badge/MS%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
   </p>
